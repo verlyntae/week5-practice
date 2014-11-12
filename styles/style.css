@@ -10,3 +10,29 @@ body {			    overflow:auto;
 				    margin: 0px;
 				    padding: 0px;
 }
+
+hgroup h1 {         margin-top: 20px;
+                    margin-left: 30px;
+                    margin-right: 30px;
+                    padding: 20px;
+                    font-family: futura, sans-serif;
+                    font-size: 3em;
+                    background-color: rgb(225, 34, 444);
+}
+
+hgroup h5 {         margin-top: -10px;
+                    margin-left: 30px;
+                    margin-right: 30px;
+                    padding: 20px;
+                    font-family: futura, sans-serif;
+                    font-size: 1em;
+}
+
+nav {}
+    
+main{}
+
+footer {            margin-right: 30px;
+                    margin-top: 20px;
+                    background-color: rgb(127, 127, 127);
+}
