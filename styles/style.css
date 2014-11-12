@@ -76,7 +76,7 @@ p {                 margin-left:460px;
                     margin-right: 188px;
                     padding: 5px;
                     font-family: futura, san-serif;
-                    font-size: 1.2em;
+                    font-size: 1.1em;
 }
 
 .sidemenu {         margin-left: 20px;
@@ -96,8 +96,13 @@ p {                 margin-left:460px;
 footer {            
                     margin-left: 250px;
                     margin-right: 20px;
-                    margin-top: -2px;
-                    height: 45px;
-				    /*width: 85%;*/
+                    margin-top: -8px;
+                    height: 38px;
+                    line-height: inherit;
+				    text-align: right;
+				    background-color: rgb(174, 177, 175);
+}
+
+footer img {        width: 3%;
 				    background-color: rgb(174, 177, 175);
 }
