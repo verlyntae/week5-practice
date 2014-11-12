@@ -76,8 +76,18 @@ p {                 margin-left:460px;
                     margin-right: 188px;
                     padding: 5px;
                     font-family: futura, san-serif;
-                    font-size: 1.2em;}
+                    font-size: 1.2em;
+}
 
+.sidemenu {         margin-left: 20px;
+                    margin-top: -400px;
+                    font-family: futura, sans-serif;
+                    font-size: 1.4em;
+                    color: rgb(255, 255, 255);
+                    width: 100%;
+				    float: left;
+				    list-style: none;
+                    background-color: rgb(255, 255, 255);}
 
 footer {            margin: 0 auto;
                     text-align: center;
