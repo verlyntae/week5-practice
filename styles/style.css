@@ -80,17 +80,21 @@ p {                 margin-left:460px;
 }
 
 .sidemenu {         margin-left: 20px;
-                    margin-top: -400px;
+                    margin-top: -485px;
                     font-family: futura, sans-serif;
                     font-size: 1.4em;
                     /*color: rgb(255, 255, 255);*/
-                    width: 100%;
+                    width: 23%;
 				    float: left;
 				    list-style: none;
                     background-color: rgb(87, 223, 221);
 }
 
-footer {            margin: 0 auto;
-                    text-align: center;
-				    width: 90%;
-				    background-color: rgb(174, 174, 174);
+/*article {         margin-left: 20px;
+                    background-color: rgb(87, 190, 223);}*/
+
+footer {            margin-right: 20px;
+                    margin-top: 80px;
+				    width: 100%;
+				    background-color: rgb(0, 0, 0);
+}
