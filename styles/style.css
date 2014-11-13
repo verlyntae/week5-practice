@@ -26,7 +26,7 @@ h2 {
                     font-family: futura, sans-serif;
                     font-size: 2em;
                     margin-top: 110px;
-                    margin-left: 400px;
+                    margin-left: 380px;
                     margin-right: 20px;
                     padding: 25px 25px 25px 65px;
                     background-color: rgb(223, 215, 88);
@@ -81,7 +81,7 @@ p {                 margin-left:460px;
 }
 
 .sidemenu {         margin-left: 20px;
-                    margin-top: -485px;
+                    margin-top: -455px;
                     font-family: futura, sans-serif;
                     font-size: 1.4em;
                     /*color: rgb(255, 255, 255);*/
@@ -91,13 +91,17 @@ p {                 margin-left:460px;
                     background-color: rgb(87, 223, 221);
 }
 
-/*article {         margin-left: 20px;
-                    background-color: rgb(87, 190, 223);}*/
+.blue {             margin-left: 20px;
+                    margin-top: -150px;
+                    position:absolute;
+                    width: 330px;
+                    height: 220px;
+                    background-color: rgb(87, 190, 223);}
 
 footer {            
-                    margin-left: 400px;
+                    margin-left: 380px;
                     margin-right: 20px;
-                    margin-top: -8px;
+                    margin-top: 29px;
                     height: 41px;
 				    text-align: right;
 				    background-color: rgb(174, 177, 175);
