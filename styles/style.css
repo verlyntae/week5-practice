@@ -81,7 +81,7 @@ p {                 margin-left:460px;
 }
 
 .sidemenu {         margin-left: 20px;
-                    margin-top: -485px;
+                    margin-top: -455px;
                     font-family: futura, sans-serif;
                     font-size: 1.4em;
                     /*color: rgb(255, 255, 255);*/
@@ -92,7 +92,7 @@ p {                 margin-left:460px;
 }
 
 .blue {             margin-left: 20px;
-                    margin-top: -80px;
+                    margin-top: -90px;
                     width: 330px;
                     height: 200px;
                     background-color: rgb(87, 190, 223);}
@@ -100,7 +100,7 @@ p {                 margin-left:460px;
 footer {            
                     margin-left: 400px;
                     margin-right: 20px;
-                    margin-top: -8px;
+                    margin-top: -60px;
                     height: 41px;
 				    text-align: right;
 				    background-color: rgb(174, 177, 175);
