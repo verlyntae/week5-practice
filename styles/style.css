@@ -85,12 +85,13 @@ p {                 margin-left: 460px;
 }
 
 .sidemenu {         margin-left: 20px;
-                    margin-top: -445px;
+                    margin-top: -443px;
                     font-family: futura, sans-serif;
                     font-size: 1.4em;
                     width: 25%;
 				    float: left;
 				    list-style-type: none;
+                    position: sticky;
                     background-color: rgb(87, 223, 221);
 }
 
@@ -117,6 +118,7 @@ p {                 margin-left: 460px;
                     position:absolute;
                     width: 25%;
                     height: 27.5%;
+                    position: sticky;
                     background-color: rgb(87, 190, 223);}
 
 footer {            
@@ -125,6 +127,7 @@ footer {
                     margin-top: 40px;
                     height: 41px;
 				    text-align: right;
+                    position: sticky;
 				    background-color: rgb(174, 177, 175);
 }
 
