@@ -26,7 +26,7 @@ h2 {
                     font-family: futura, sans-serif;
                     font-size: 2em;
                     margin-top: 110px;
-                    margin-left: 400px;
+                    margin-left: 380px;
                     margin-right: 20px;
                     padding: 25px 25px 25px 65px;
                     background-color: rgb(223, 215, 88);
@@ -92,14 +92,14 @@ p {                 margin-left:460px;
 }
 
 .blue {             margin-left: 20px;
-                    margin-top: -190px;
+                    margin-top: -150px;
                     position:absolute;
                     width: 330px;
-                    height: 260px;
+                    height: 220px;
                     background-color: rgb(87, 190, 223);}
 
 footer {            
-                    margin-left: 400px;
+                    margin-left: 380px;
                     margin-right: 20px;
                     margin-top: 29px;
                     height: 41px;
