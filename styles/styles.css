@@ -5,7 +5,7 @@
 }
 
 body {			    overflow: auto;
-				    overflow-x: hidden;
+				    overflow-x: auto;
                     border: 0px;
 				    margin: 0px;
 				    padding: 0px;
@@ -25,9 +25,10 @@ h1 {                margin-top: 20px;
 h2 {                
                     font-family: futura, sans-serif;
                     font-size: 2em;
-                    margin-top: 120px;
-                    margin-left: 400px;
+                    margin-top: 110px;
+                    margin-left: 395px;
                     margin-right: 20px;
+                    color: rgb(255, 255, 255);
                     padding: 25px 25px 25px 65px;
                     background-color: rgb(223, 215, 88);
 }
@@ -37,7 +38,8 @@ header h5{          font-family:futura, sans-serif;
                     margin-left: 20px;
                     margin-top: -90px;
                     margin-bottom: 80px;
-                    padding-left: 15px;}
+                    padding-left: 15px;
+}
 
 nav {               margin: auto;
                     margin-right: 20px;
@@ -60,7 +62,9 @@ nav ul {            font-family: futura, sans-serif;
                     padding: 0;
 }
 
-nav ul li {         display: inline;}
+nav ul li {         display: inline;
+        
+                }
 
 nav ul li a {       font-weight: bold;
                     text-decoration: none; 
@@ -72,14 +76,61 @@ nav ul li a {       font-weight: bold;
 }
     
     
-p {                 margin-left:460px;
+p {                 margin-left: 460px;
                     margin-right: 188px;
                     padding: 5px;
+                    width: 47%;
                     font-family: futura, san-serif;
-                    font-size: 1.2em;}
+                    font-size: 1.08em;
+}
 
+.sidemenu {         margin-left: 20px;
+                    margin-top: -445px;
+                    font-family: futura, sans-serif;
+                    font-size: 1.4em;
+                    width: 25%;
+				    float: left;
+				    list-style-type: none;
+                    background-color: rgb(87, 223, 221);
+}
 
-footer {            margin: 0 auto;
-                    text-align: center;
-				    width: 90%;
-				    background-color: rgb(174, 174, 174);
+.sidemenu ul {      margin: 0px;
+                    padding-top: 0px;
+                    display: inline;
+                    list-style-type: none;
+                    height: 20px;
+                    width: 100%;
+				    text-align: left;
+}
+
+.sidemenu ul li {   margin: 15px 70px;
+                    list-style-type: none;
+}
+
+.sidemenu ul a{     text-decoration: none;
+                    color: rgb(255, 255, 255);
+                   
+}
+
+.blue {             margin-left: 20px;
+                    margin-top: -140px;
+                    position:absolute;
+                    width: 25%;
+                    height: 27.5%;
+                    background-color: rgb(87, 190, 223);}
+
+footer {            
+                    margin-left: 395px;
+                    margin-right: 20px;
+                    margin-top: 40px;
+                    height: 41px;
+				    text-align: right;
+				    background-color: rgb(174, 177, 175);
+}
+
+footer img {        width: 3%;
+                    margin-left: 10px;
+                    margin-top: 9px;
+                    padding-right: 20px;
+				    background-color: rgb(174, 177, 175);
+}
