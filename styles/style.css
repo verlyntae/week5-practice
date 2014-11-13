@@ -87,19 +87,17 @@ p {                 margin-left:460px;
                     /*color: rgb(255, 255, 255);*/
                     width: 23%;
 				    float: left;
-				    list-style: none;
+				    list-style-type: none;
                     background-color: rgb(87, 223, 221);
 }
 
 .sidemenu ul {      margin: 0px;
-                    padding: 0px;
-                    font-family: futura, sans-serif;
-                    font-size: 1em;
+                    padding-top: 0px;
                     display: inline;
+                    list-style-type: none;
                     height: 20px;
                     width: 100%;
 				    text-align:center;
-				    list-style-type: none;
 }
 
 .blue {             margin-left: 20px;
