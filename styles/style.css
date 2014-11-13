@@ -91,6 +91,17 @@ p {                 margin-left:460px;
                     background-color: rgb(87, 223, 221);
 }
 
+.sidemenu ul {      margin: 0px;
+                    padding: 0px;
+                    font-family: futura, sans-serif;
+                    font-size: 1em;
+                    display: inline;
+                    height: 20px;
+                    width: 100%;
+				    text-align:center;
+				    list-style-type: none;
+}
+
 .blue {             margin-left: 20px;
                     margin-top: -150px;
                     position:absolute;
