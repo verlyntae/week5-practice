@@ -73,7 +73,7 @@ nav ul li a {       font-weight: bold;
 }
     
     
-p {                 margin-left:460px;
+p {                 margin-left: 460px;
                     margin-right: 188px;
                     padding: 5px;
                     font-family: futura, san-serif;
@@ -87,8 +87,26 @@ p {                 margin-left:460px;
                     /*color: rgb(255, 255, 255);*/
                     width: 23%;
 				    float: left;
-				    list-style: none;
+				    list-style-type: none;
                     background-color: rgb(87, 223, 221);
+}
+
+.sidemenu ul {      margin: 0px;
+                    padding-top: 0px;
+                    display: inline;
+                    list-style-type: none;
+                    height: 20px;
+                    width: 100%;
+				    text-align: left;
+}
+
+.sidemenu ul li {   margin: 15px;
+                    list-style-type: none;
+}
+
+.sidemenu ul a{     text-decoration: none;
+                    color: rgb(255, 255, 255);
+                   
 }
 
 .blue {             margin-left: 20px;
