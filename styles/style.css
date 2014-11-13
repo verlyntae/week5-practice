@@ -92,7 +92,8 @@ p {                 margin-left:460px;
 }
 
 .blue {             margin-left: 20px;
-                    margin-top: -90px;
+                    margin-top: -190px;
+                    position:absolute;
                     width: 330px;
                     height: 200px;
                     background-color: rgb(87, 190, 223);}
@@ -100,7 +101,7 @@ p {                 margin-left:460px;
 footer {            
                     margin-left: 400px;
                     margin-right: 20px;
-                    margin-top: -60px;
+                    margin-top: 29px;
                     height: 41px;
 				    text-align: right;
 				    background-color: rgb(174, 177, 175);
