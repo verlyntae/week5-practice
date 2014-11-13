@@ -17,7 +17,7 @@ h1 {                margin-top: 20px;
                     padding-left: 15px;
                     padding-top: 30px;
                     padding-bottom: 90px;
-                    font-family: futura, sans-serif;
+                    font-family: "futura-book", sans-serif;
                     font-size: 3em;
                     background-color: rgb(193, 224, 87);
 }
@@ -82,7 +82,7 @@ p {                 margin-left: 460px;
 
 .sidemenu {         margin-left: 20px;
                     margin-top: -455px;
-                    font-family: "futura-medium", sans-serif;
+                    font-family: futura, sans-serif;
                     font-size: 1.4em;
                     /*color: rgb(255, 255, 255);*/
                     width: 23%;
